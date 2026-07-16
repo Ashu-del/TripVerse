@@ -82,9 +82,6 @@ service orchestration, and distributed system design.
 5. Booking Service
 6. API Gateway
 
-Access Eureka Dashboard:
-http://localhost:8761
-
 
 ---
 
